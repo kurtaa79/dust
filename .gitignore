@@ -18,6 +18,12 @@ venv/
 # Outputs & state
 results/
 state/
+logs/
+
+# Generated / archives
+*.csv
+*.zip
+*.desktop
 
 # OS/editor
 .DS_Store
